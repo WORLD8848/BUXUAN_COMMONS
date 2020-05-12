@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:padding="@dimen/activity_margin">
 
-        <com.simplemobiletools.commons.views.MyTextView
+        <com.ibuxuan.commons.views.MyTextView
             android:id="@+id/about_website"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -21,7 +21,7 @@
             android:textColorLink="@color/color_primary"
             android:visibility="gone"/>
 
-        <com.simplemobiletools.commons.views.MyTextView
+        <com.ibuxuan.commons.views.MyTextView
             android:id="@+id/about_email"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -29,7 +29,7 @@
             android:text="@string/my_email"
             android:textColorLink="@color/color_primary"/>
 
-        <com.simplemobiletools.commons.views.MyTextView
+        <com.ibuxuan.commons.views.MyTextView
             android:id="@+id/about_faq_label"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -37,7 +37,7 @@
             android:layout_marginTop="@dimen/activity_margin"
             android:text="@string/before_asking_question"/>
 
-        <com.simplemobiletools.commons.views.MyTextView
+        <com.ibuxuan.commons.views.MyTextView
             android:id="@+id/about_faq"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -46,7 +46,7 @@
             android:text="@string/frequently_asked_questions"
             android:textColor="@color/color_primary"/>
 
-        <com.simplemobiletools.commons.views.MyTextView
+        <com.ibuxuan.commons.views.MyTextView
             android:id="@+id/about_upgrade_to_pro"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -56,7 +56,7 @@
             android:text="@string/upgrade_to_pro"
             android:textColor="@color/color_primary"/>
 
-        <com.simplemobiletools.commons.views.MyTextView
+        <com.ibuxuan.commons.views.MyTextView
             android:id="@+id/about_more_apps"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -66,7 +66,7 @@
             android:text="@string/more_apps_from_us_underlined"
             android:textColor="@color/color_primary"/>
 
-        <com.simplemobiletools.commons.views.MyTextView
+        <com.ibuxuan.commons.views.MyTextView
             android:id="@+id/about_invite"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -76,7 +76,7 @@
             android:text="@string/invite_friends_underlined"
             android:textColor="@color/color_primary"/>
 
-        <com.simplemobiletools.commons.views.MyTextView
+        <com.ibuxuan.commons.views.MyTextView
             android:id="@+id/about_rate_us"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -86,7 +86,7 @@
             android:text="@string/rate_us_underlined"
             android:textColor="@color/color_primary"/>
 
-        <com.simplemobiletools.commons.views.MyTextView
+        <com.ibuxuan.commons.views.MyTextView
             android:id="@+id/about_license"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -96,7 +96,7 @@
             android:text="@string/third_party_licences_underlined"
             android:textColor="@color/color_primary"/>
 
-        <com.simplemobiletools.commons.views.MyTextView
+        <com.ibuxuan.commons.views.MyTextView
             android:id="@+id/about_follow_us"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -122,7 +122,7 @@
             android:layout_toEndOf="@+id/about_facebook"
             android:src="@drawable/ic_reddit_vector"/>
 
-        <com.simplemobiletools.commons.views.MyTextView
+        <com.ibuxuan.commons.views.MyTextView
             android:id="@+id/about_copyright"
             android:layout_width="match_parent"
             android:layout_height="match_parent"

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<com.simplemobiletools.commons.views.RenameSimpleTab
+<com.ibuxuan.commons.views.RenameSimpleTab
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/rename_simple_holder"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:padding="@dimen/activity_margin">
 
-    <com.simplemobiletools.commons.views.MyEditText
+    <com.ibuxuan.commons.views.MyEditText
         android:id="@+id/rename_simple_value"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -22,7 +22,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/rename_simple_value">
 
-        <com.simplemobiletools.commons.views.MyCompatRadioButton
+        <com.ibuxuan.commons.views.MyCompatRadioButton
             android:id="@+id/rename_simple_radio_append"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -31,7 +31,7 @@
             android:paddingBottom="@dimen/normal_margin"
             android:text="@string/append_filenames"/>
 
-        <com.simplemobiletools.commons.views.MyCompatRadioButton
+        <com.ibuxuan.commons.views.MyCompatRadioButton
             android:id="@+id/rename_simple_radio_prepend"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -39,4 +39,4 @@
             android:paddingBottom="@dimen/normal_margin"
             android:text="@string/prepend_filenames"/>
     </RadioGroup>
-</com.simplemobiletools.commons.views.RenameSimpleTab>
+</com.ibuxuan.commons.views.RenameSimpleTab>

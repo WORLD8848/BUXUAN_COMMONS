@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:padding="@dimen/activity_margin">
 
-    <com.simplemobiletools.commons.views.MyEditText
+    <com.ibuxuan.commons.views.MyEditText
         android:id="@+id/rename_items_value"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -22,7 +22,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/rename_items_value">
 
-        <com.simplemobiletools.commons.views.MyCompatRadioButton
+        <com.ibuxuan.commons.views.MyCompatRadioButton
             android:id="@+id/rename_items_radio_append"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -31,7 +31,7 @@
             android:paddingBottom="@dimen/normal_margin"
             android:text="@string/append_filenames"/>
 
-        <com.simplemobiletools.commons.views.MyCompatRadioButton
+        <com.ibuxuan.commons.views.MyCompatRadioButton
             android:id="@+id/rename_items_radio_prepend"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"

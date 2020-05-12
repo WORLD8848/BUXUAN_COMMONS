@@ -215,7 +215,7 @@
     <string name="share_colors_success">Боје су ажуриране успешно. Нова тема под именом \'Shared\' је додата, молимо вас да је користите за ажурирање свих боја у будућности.</string>
     <string name="purchase_thank_you">
         <![CDATA[
-            Молимо вас пазарите <a href="https://play.google.com/store/apps/details?id=com.simplemobiletools.thankyou">Simple Thank You</a> да откључате ову функцију и подржите наш развој. Хвала вам!
+            Молимо вас пазарите <a href="https://play.google.com/store/apps/details?id=com.ibuxuan.thankyou">Simple Thank You</a> да откључате ову функцију и подржите наш развој. Хвала вам!
         ]]>
     </string>
 
@@ -618,7 +618,7 @@
     <string name="donate_please">
         <![CDATA[
             Поздрав,<br><br>
-            надамо се да уживате у апликацији. Она не садржи огласе, молимо вас да подржите њен развој куповином <a href="https://play.google.com/store/apps/details?id=com.simplemobiletools.thankyou">Simple Thank You</a> апликације, то ће такође спречити овај дијалог од поновног појављивања.<br><br>
+            надамо се да уживате у апликацији. Она не садржи огласе, молимо вас да подржите њен развој куповином <a href="https://play.google.com/store/apps/details?id=com.ibuxuan.thankyou">Simple Thank You</a> апликације, то ће такође спречити овај дијалог од поновног појављивања.<br><br>
             Хвала вам!
         ]]>
     </string>
@@ -657,7 +657,7 @@
     <string name="faq_1_title_commons">Зашто не видим виџете ове апликације у листи виџета?</string>
     <string name="faq_1_text_commons">Највероватније јер сте преместили апликацију на СД картицу. Постоји ограничење Андроид система које скрива виџете у том случају. Једино решење је да вратите апликацију у интерно складиште преко подешавања уређаја.</string>
     <string name="faq_2_title_commons">Желим да вам дам подршку, али не могу да донирам новац. Да ли могу да учиним нешто друго?</string>
-    <string name="faq_2_text_commons">Наравно. Можете да ширите информацију о апликацијама или да сачините добру повратну информацију (рецензију) и дате нам добру оцену. Такође можете помоћи тако што ћете превести апликације на нови језик, или да освежите неке већ постојеће преводе. Можете наћи упутство на https://github.com/SimpleMobileTools/General-Discussion , или ми једноставно послати поруку на hello@simplemobiletools.com ако вам треба помоћ..</string>
+    <string name="faq_2_text_commons">Наравно. Можете да ширите информацију о апликацијама или да сачините добру повратну информацију (рецензију) и дате нам добру оцену. Такође можете помоћи тако што ћете превести апликације на нови језик, или да освежите неке већ постојеће преводе. Можете наћи упутство на https://github.com/ibuxuan/General-Discussion , или ми једноставно послати поруку на hello@ibuxuan.com ако вам треба помоћ..</string>
     <string name="faq_3_title_commons">Обрисао сам неке датотеке грешком, како их могу повратити?</string>
     <string name="faq_3_text_commons">Нажалост не можете. Датотеке се бришу одмах након дијалога за потврду, не постоји канта за отпатке.</string>
     <string name="faq_4_title_commons">Не свиђају ми се боје виџета, да ли могу да их променим?</string>
@@ -672,7 +672,7 @@
     <string name="faq_8_title_commons">Why should I upgrade to the Pro version?</string>
     <string name="faq_8_text_commons">As your app version is no longer updated, the bugs you have maybe spotted will never be fixed. There will also be no new functions added. You can purchase the Pro version on Google Play for a small sum of money.
         It is a one time payment, which means that once you purchase it, you will never have to pay again. Not even after getting a new device. If you won\'t like the Pro version, you can just uninstall it within a few hours and you will automatically get your money back.
-        If you want a refund anytime later, just contact us at hello@simplemobiletools.com and you will get it.</string>
+        If you want a refund anytime later, just contact us at hello@ibuxuan.com and you will get it.</string>
 
     <!-- License -->
     <string name="notice">Ова апликација користи следеће библиотеке које припадају трећим лицима, како би учинили наш живот лакшим. Хвала вам.</string>
@@ -707,8 +707,8 @@
     <string name="sms_mms_title">SMS MMS (SMS and MMS handling)</string>
 
     <!-- Google Play listing -->
-    <string name="deprecated_app">DEPRECATED: This version of the app is no longer maintained, get the Pro version at https://play.google.com/store/apps/details?id=com.simplemobiletools.xxx.pro</string>
-    <string name="pro_app_refund">Don\'t forget that if you uninstall any paid app within 2 hours, you will automatically be refunded. If you want a refund anytime later, just contact us at hello@simplemobiletools.com and you will get it. That makes it easy to try it out :)</string>
+    <string name="deprecated_app">DEPRECATED: This version of the app is no longer maintained, get the Pro version at https://play.google.com/store/apps/details?id=com.ibuxuan.xxx.pro</string>
+    <string name="pro_app_refund">Don\'t forget that if you uninstall any paid app within 2 hours, you will automatically be refunded. If you want a refund anytime later, just contact us at hello@ibuxuan.com and you will get it. That makes it easy to try it out :)</string>
 
     <!-- Description of our developer profile on Google Play, it can have max 140 characters -->
     <string name="developer_description">A group of simple, open source Android apps with customizable widgets, without ads and unnecessary permissions.</string>

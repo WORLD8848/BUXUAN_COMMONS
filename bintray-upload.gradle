@@ -1,9 +1,9 @@
 apply plugin: 'com.github.dcendents.android-maven'
 apply plugin: 'com.jfrog.bintray'
 
-def siteUrl = 'https://github.com/SimpleMobileTools/Simple-Commons'
-def gitUrl = 'https://github.com/SimpleMobileTools/Simple-Commons.git'
-group = "com.simplemobiletools"
+def siteUrl = 'https://github.com/ibuxuan/Simple-Commons'
+def gitUrl = 'https://github.com/ibuxuan/Simple-Commons.git'
+group = "com.ibuxuan"
 version = propVersionName
 
 install {
@@ -24,7 +24,7 @@ install {
                 developer {
                     id 'tibbi'
                     name 'Tibor Kaputa'
-                    email 'hello@simplemobiletools.com'
+                    email 'hello@ibuxuan.com'
                 }
             }
             scm {

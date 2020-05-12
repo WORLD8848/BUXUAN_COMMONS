@@ -1,17 +1,17 @@
 <resources>
-    <string name="package_name">com.simplemobiletools.commons</string>
+    <string name="package_name">com.ibuxuan.commons</string>
     <string name="pro">Pro</string>
     <string name="simple_commons">Simple Commons</string>
     <string name="progress">%1$s / %2$s</string>
-    <string name="donate_url">https://simplemobiletools.com/donate</string>
-    <string name="thank_you_url">https://play.google.com/store/apps/details?id=com.simplemobiletools.thankyou</string>
+    <string name="donate_url">https://ibuxuan.com/donate</string>
+    <string name="thank_you_url">https://play.google.com/store/apps/details?id=com.ibuxuan.thankyou</string>
     <string name="a_m">a.m.</string>
     <string name="p_m">p.m.</string>
 
     <!-- About -->
     <string name="two_string_placeholder">%1$s%2$s</string>
-    <string name="my_website">\nhttps://simplemobiletools.com</string>
-    <string name="my_email">hello@simplemobiletools.com</string>
+    <string name="my_website">\nhttps://ibuxuan.com</string>
+    <string name="my_email">hello@ibuxuan.com</string>
 
     <!-- License -->
     <string name="kotlin_text">Copyright 2010 - 2018 JetBrains s.r.o.\n\nLicensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License.You may obtain a copy of the License at\n\nhttps://www.apache.org/licenses/LICENSE-2.0\n\nUnless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS,WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.See the License for the specific language governing permissions and limitations under the License.</string>

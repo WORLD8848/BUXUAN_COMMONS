@@ -7,7 +7,7 @@
     android:layout_height="match_parent"
     android:padding="@dimen/activity_margin">
 
-    <com.simplemobiletools.commons.views.MyEditText
+    <com.ibuxuan.commons.views.MyEditText
         android:id="@+id/rename_items_value"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -18,7 +18,7 @@
         android:textSize="@dimen/normal_text_size"
         tools:ignore="HardcodedText"/>
 
-    <com.simplemobiletools.commons.views.MyTextView
+    <com.ibuxuan.commons.views.MyTextView
         android:id="@+id/rename_items_label"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:paddingTop="@dimen/activity_margin">
 
-    <com.simplemobiletools.commons.views.MyEditText
+    <com.ibuxuan.commons.views.MyEditText
         android:id="@+id/add_blocked_number_edittext"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

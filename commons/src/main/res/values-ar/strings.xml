@@ -214,7 +214,7 @@
     <string name="share_colors_success">تم تحديث الألوان بنجاح. تمت إضافة سمة جديدة تسمى \ المشتركة \' ، يرجى إستخدام ذلك لتحديث جميع ألوان التطبيق في المستقبل.</string>
     <string name="purchase_thank_you">
         <![CDATA[
-             يرجى شراء<a href="https://play.google.com/store/apps/details?id=com.simplemobiletools.thankyou">Thank You</a> لفتح هذه الوظيفة ودعم التطوير. شكراً!
+             يرجى شراء<a href="https://play.google.com/store/apps/details?id=com.ibuxuan.thankyou">Thank You</a> لفتح هذه الوظيفة ودعم التطوير. شكراً!
         ]]>
     </string>
 
@@ -617,7 +617,7 @@
     <string name="donate_please">
         <![CDATA[
  مرحباً,<br><br>
-            أتمني أن مستمتعاً بالتطبيق. الذي لا يحتوي على إعلانات ، يرجى دعم تطويره من خلال شراء تطبيق <a href="https://play.google.com/store/apps/details?id=com.simplemobiletools.thankyou">Simple Thank You</a>سيمنع هذا  مربع الحوار من الظهور مرة أخرى. <br><br>
+            أتمني أن مستمتعاً بالتطبيق. الذي لا يحتوي على إعلانات ، يرجى دعم تطويره من خلال شراء تطبيق <a href="https://play.google.com/store/apps/details?id=com.ibuxuan.thankyou">Simple Thank You</a>سيمنع هذا  مربع الحوار من الظهور مرة أخرى. <br><br>
             شكرا!
         ]]>
     </string>
@@ -656,7 +656,7 @@
     <string name="faq_1_title_commons">كيف لا أرى هذه التطبيقات في قائمة التطبيقات المصغّرة (الويدجت)؟</string>
     <string name="faq_1_text_commons">وهو على الأرجح لأنك قمت بنقل التطبيق على بطاقة الذاكرة (SD) هناك حد لنظام أندرويد يقوم باخفاء (الويدجت) للتطبيق المحدد           في هذه الحالة يتمثل الحل الوحيد في نقل التطبيق مرة أخرى إلى وحدة التخزين الداخلية من خلال إعدادات جهازك.</string>
     <string name="faq_2_title_commons">أريد ان أدعمكم لكن لا يمكنني التبرع بالمال هل هناك أي شيء آخر يمكنني فعله ؟</string>
-    <string name="faq_2_text_commons">نعم طبعاً. يمكنك نشر الكلمة عن التطبيقات أو تقديم تعليقات وتقييمات جيدة. يمكنك أيضاً المساعدة من خلال ترجمة التطبيقات بلغة جديدة ، أو تحديث بعض الترجمات الموجودة فقط.يمكنك العثور على الدليل على https://github.com/SimpleMobileTools/General-Discussion ، أو فقط أرسل رسالة على hello@simplemobiletools.com إذا كنت بحاجة إلى مساعدة.</string>
+    <string name="faq_2_text_commons">نعم طبعاً. يمكنك نشر الكلمة عن التطبيقات أو تقديم تعليقات وتقييمات جيدة. يمكنك أيضاً المساعدة من خلال ترجمة التطبيقات بلغة جديدة ، أو تحديث بعض الترجمات الموجودة فقط.يمكنك العثور على الدليل على https://github.com/ibuxuan/General-Discussion ، أو فقط أرسل رسالة على hello@ibuxuan.com إذا كنت بحاجة إلى مساعدة.</string>
     <string name="faq_3_title_commons">قمت بحذف بعض الملفات عن طريق الخطأ، كيف يمكنني إسترجاعها؟</string>
     <string name="faq_3_text_commons">للأسف، لا يمكنك. يتم حذف الملفات فوراً بعد مربع حوار التأكيد، لا توجد سلة محذوفات متاحة.</string>
     <string name="faq_4_title_commons">أنا لا أحب ألوان (الويدجت)، هل يمكنني تغييرها؟</string>
@@ -668,7 +668,7 @@
     <string name="faq_7_title_commons">تم خصم المال من حسابي البنكي ، لكن لا يمكنني تنزيل التطبيق. ماذا يمكنني أن أفعل؟</string>
     <string name="faq_7_text_commons">تتم معالجة المدفوعات بالكامل بواسطة Google ، حيث يتسبب نظامها في خلل من وقت لآخر. فقط قم بمسح ذاكرة التخزين المؤقت للتطبيق في Google Play وإعد تشغيل جهازك ، ثم أعد محاولة تنزيله.</string>
     <string name="faq_8_title_commons">لماذا يجب عليا الترقية إلى الإصدار البرو (Pro)?</string>
-    <string name="faq_8_text_commons">نظراً لأن إصدار التطبيق الخاص بك لم يعد محدثاً ، فلن يتم إصلاح الأخطاء التي إكتشافها. كما لن تتم إضافة وظائف جديدة . يمكنك شراء الإصدار الـ Pro على Google Play مقابل مبلغ صغير من المال. إنها دفعة لمرة واحدة،مما يعني أنه بمجرد شرائه ، لن تضطر إلى الدفع مرة أخرى. ليس حتى بعد الحصول على جهاز جديد. إذا كنت لا تحب إصدار Pro ، يمكنك إلغاء تثبيته في غضون ساعات قليلة وستحصل على أموالك تلقائياً.إذا كنت تريد إسترداد الأموال في أي وقت لاحق ، فأتصل بنا على hello@simplemobiletools.com وستحصل عليه.</string>
+    <string name="faq_8_text_commons">نظراً لأن إصدار التطبيق الخاص بك لم يعد محدثاً ، فلن يتم إصلاح الأخطاء التي إكتشافها. كما لن تتم إضافة وظائف جديدة . يمكنك شراء الإصدار الـ Pro على Google Play مقابل مبلغ صغير من المال. إنها دفعة لمرة واحدة،مما يعني أنه بمجرد شرائه ، لن تضطر إلى الدفع مرة أخرى. ليس حتى بعد الحصول على جهاز جديد. إذا كنت لا تحب إصدار Pro ، يمكنك إلغاء تثبيته في غضون ساعات قليلة وستحصل على أموالك تلقائياً.إذا كنت تريد إسترداد الأموال في أي وقت لاحق ، فأتصل بنا على hello@ibuxuan.com وستحصل عليه.</string>
 
     <!-- License -->
     <string name="notice">يستخدم هذا التطبيق مكتبات الجهات الخارجية التالية لتسهيل حياتي.شكراً.</string>
@@ -703,8 +703,8 @@
     <string name="sms_mms_title">SMS MMS (معالجة الرسائل القصيرة ورسائل الوسائط المتعددة)</string>
 
     <!-- Google Play listing -->
-    <string name="deprecated_app">لم يعد يجري العمل عليه: لم يعد هذا الإصدار من التطبيق يجري العمل عليه، قم بالحصول على الإصدار الـ Pro على https://play.google.com/store/apps/details?id=com.simplemobiletools.xxx.pro</string>
-    <string name="pro_app_refund">لا تنسى أنه إذا قمت بإلغاء تثبيت أي تطبيق مدفوع في غضون ساعتين ، فسيتم إسترداد أموالك تلقائياً. إذا كنت تريد إسترداد الأموال في أي وقت لاحق ، فأتصل بنا على hello@simplemobiletools.com وستحصل عليه. هذا يجعل من السهل تجربته :)</string>
+    <string name="deprecated_app">لم يعد يجري العمل عليه: لم يعد هذا الإصدار من التطبيق يجري العمل عليه، قم بالحصول على الإصدار الـ Pro على https://play.google.com/store/apps/details?id=com.ibuxuan.xxx.pro</string>
+    <string name="pro_app_refund">لا تنسى أنه إذا قمت بإلغاء تثبيت أي تطبيق مدفوع في غضون ساعتين ، فسيتم إسترداد أموالك تلقائياً. إذا كنت تريد إسترداد الأموال في أي وقت لاحق ، فأتصل بنا على hello@ibuxuan.com وستحصل عليه. هذا يجعل من السهل تجربته :)</string>
 
     <!-- Description of our developer profile on Google Play, it can have max 140 characters -->
     <string name="developer_description">مجموعة بسيطة، من تطبيقات أندرويد المفتوحة المصدر ذات الودجات القابلة للتخصيص، بدون إعلانات أو أذونات غير ضرورية.</string>

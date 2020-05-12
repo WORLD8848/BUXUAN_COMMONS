@@ -213,7 +213,7 @@
     <string name="share_colors_success">Warna berhasil diperbarui. Tema baru dengan nama \'Saling Berbagi\' telah ditambahkan. Kedepannya, silakan gunakan untuk memperbarui semua warna aplikasi.</string>
     <string name="purchase_thank_you">
         <![CDATA[
-            Silakan beli <a href="https://play.google.com/store/apps/details?id=com.simplemobiletools.thankyou">Simple Thank You</a> untuk membuka fungsi ini dan mendukung pengembangan. Terima kasih!
+            Silakan beli <a href="https://play.google.com/store/apps/details?id=com.ibuxuan.thankyou">Simple Thank You</a> untuk membuka fungsi ini dan mendukung pengembangan. Terima kasih!
         ]]>
     </string>
 
@@ -586,7 +586,7 @@
     <string name="donate_please">
         <![CDATA[
             Halo,<br><br>
-            semoga anda menyukai aplikasi ini. Aplikasi ini sama sekali tidak berisi iklan, dukung pengembangan dengan membeli aplikasi <a href="https://play.google.com/store/apps/details?id=com.simplemobiletools.thankyou">Simple Thank You</a>, ini juga untuk mencegah dialog ini muncul kembali.<br><br>
+            semoga anda menyukai aplikasi ini. Aplikasi ini sama sekali tidak berisi iklan, dukung pengembangan dengan membeli aplikasi <a href="https://play.google.com/store/apps/details?id=com.ibuxuan.thankyou">Simple Thank You</a>, ini juga untuk mencegah dialog ini muncul kembali.<br><br>
             Terima kasih!
         ]]>
     </string>
@@ -627,7 +627,7 @@
         karena hal tersebut. Satu-satunya solusi adalah memindahkannya kembali ke Penyimpanan Internal melalui pengaturan perangkat anda.</string>
     <string name="faq_2_title_commons">Saya ingin mendukung Anda, tetapi saya tidak bisa berdonasi. Adakah cara lain yang bisa saya lakukan?</string>
     <string name="faq_2_text_commons">Tentu saja ada. Anda bisa membagikan aplikasi ini atau memberikan umpanbalik dan nilai yang baik. Anda juga bisa membantu menerjemahkan aplikasi ke dalam bahasa baru, atau cukup perbarui terjemahan yang sudah ada.
-        Anda bisa melihat panduannya di https://github.com/SimpleMobileTools/General-Discussion , atau email saya di hello@simplemobiletools.com jika butuh bantuan.</string>
+        Anda bisa melihat panduannya di https://github.com/ibuxuan/General-Discussion , atau email saya di hello@ibuxuan.com jika butuh bantuan.</string>
     <string name="faq_3_title_commons">Saya tidak sengaja menghapus berkas, bagaimana saya memulihkannya?</string>
     <string name="faq_3_text_commons">Sayangnya tidak bisa. Berkas akan dihapus secara permanen setelah dialog konfirmasi, tidak ada keranjang keranjang sampah yang tersedia.</string>
     <string name="faq_4_title_commons">Saya tidak suka warna widget, bisakah saya mengubahnya?</string>
@@ -642,7 +642,7 @@
     <string name="faq_8_title_commons">Why should I upgrade to the Pro version?</string>
     <string name="faq_8_text_commons">As your app version is no longer updated, the bugs you have maybe spotted will never be fixed. There will also be no new functions added. You can purchase the Pro version on Google Play for a small sum of money.
         It is a one time payment, which means that once you purchase it, you will never have to pay again. Not even after getting a new device. If you won\'t like the Pro version, you can just uninstall it within a few hours and you will automatically get your money back.
-        If you want a refund anytime later, just contact us at hello@simplemobiletools.com and you will get it.</string>
+        If you want a refund anytime later, just contact us at hello@ibuxuan.com and you will get it.</string>
 
     <!-- License -->
     <string name="notice">Aplikasi ini menggunakan pustaka pihak ketiga berikut untuk mempermudah pekerjaan. Terima kasih.</string>
@@ -677,8 +677,8 @@
     <string name="sms_mms_title">SMS MMS (SMS and MMS handling)</string>
 
     <!-- Google Play listing -->
-    <string name="deprecated_app">TIDAK DIDUKUNG: Versi aplikasi ini tidak lagi dikembangkan, dapatkan versi Pro di https://play.google.com/store/apps/details?id=com.simplemobiletools.xxx.pro</string>
-    <string name="pro_app_refund">Jangan lupa, jika anda untuk mencopot aplikasi berbayar manapun dalam waktu 2 jam, uang anda akan otomatis dikembalikan. Jika anda ingin pengembalian dilakukan lain waktu, cukup hubungi hello@simplemobiletools.com dan anda akan mendapatkannya. Mempermudah anda untuk mencobanya terlebih dahulu. :)</string>
+    <string name="deprecated_app">TIDAK DIDUKUNG: Versi aplikasi ini tidak lagi dikembangkan, dapatkan versi Pro di https://play.google.com/store/apps/details?id=com.ibuxuan.xxx.pro</string>
+    <string name="pro_app_refund">Jangan lupa, jika anda untuk mencopot aplikasi berbayar manapun dalam waktu 2 jam, uang anda akan otomatis dikembalikan. Jika anda ingin pengembalian dilakukan lain waktu, cukup hubungi hello@ibuxuan.com dan anda akan mendapatkannya. Mempermudah anda untuk mencobanya terlebih dahulu. :)</string>
 
     <!-- Description of our developer profile on Google Play, it can have max 140 characters -->
     <string name="developer_description">A group of simple, open source Android apps with customizable widgets, without ads and unnecessary permissions.</string>
